@@ -1,0 +1,16 @@
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\List.exe
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\List.deps.json
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\List.runtimeconfig.json
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\List.dll
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\ref\List.dll
+C:\Users\dsayf\RiderProjects\First\List\bin\Debug\net5.0\List.pdb
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.csprojAssemblyReference.cache
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.dll
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\ref\List.dll
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.pdb
+C:\Users\dsayf\RiderProjects\First\List\obj\Debug\net5.0\List.genruntimeconfig.cache
